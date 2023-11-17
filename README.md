@@ -10,7 +10,7 @@ The project is to analyze and derive insights to answer crucial questions and he
 
 **_Disclaimer_** : _All datasets and reports do not represent any company, institution or country,  but just a dummy dataset to demonstrate capabilities of Power BI._
 
-## Objective: This is a short demo to teach data analyst on how they can leverage Github to documenting their project. I showcased this while giving a tutorial on "Documenting Data Analyst Project on GitHub" via the Microsoft Reactor YouTube channel.
+**_Objective: This is a short demo to teach data analyst on how they can leverage Github to documenting their project. I showcased this while giving a tutorial on "Documenting Data Analyst Project on GitHub" via the Microsoft Reactor YouTube channel._**
 
 ## Problem statement
 1.	Which warehouse has the highest impact on income in the current year?
