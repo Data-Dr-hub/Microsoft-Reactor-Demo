@@ -2,7 +2,8 @@
 
 ![](intro_image.jpg)
 ---
-
+**This aim of this project is to demonstrate the skill of documenting Power BI projects on GitHub for my tutorial on [Microsoft Reactor](https://www.youtube.com/live/GLIwyoPWrHs?si=_KNGbgKLQzvgo-R1).**
+---
 ## Introduction
 
 This is a power Bi project on sales analysis of an imaginary store called **Confirm Stores**. 
